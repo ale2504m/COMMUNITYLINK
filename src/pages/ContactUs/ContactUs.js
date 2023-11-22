@@ -18,13 +18,13 @@ export const ContactUs = () => {
                 </div>
                 <form action="">
                   <div>
-                    <input type="text" placeholder="Tu nombre papeto" />
+                    <input type="text" placeholder="Tu nombre" />
                   </div>
                   <div>
-                    <input type="text" placeholder="Telefono pepeto" />
+                    <input type="text" placeholder="Telefono" />
                   </div>
                   <div>
-                    <input type="email" placeholder="Correo electromico papeto" />
+                    <input type="email" placeholder="Correo electronico" />
                   </div>
                   <div>
                     <input type="text" className="message-box" placeholder="Mensaje" />
